@@ -2,10 +2,11 @@
 Launch App like Twitter bird splash animation.
 
 Developed using:
-Xcode 9
-Swift 4
-iOS target 8.0
-Universal
+Xcode 9 ---
+Swift 4 ---
+iOS target 8.0 ---
+Universal ---
+Removed Safe area layout guides --- As per requirement activate it again.
 
 The Code contains the comments required to understand the variables and functions.
 
